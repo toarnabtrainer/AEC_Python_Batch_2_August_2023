@@ -5,7 +5,7 @@ https://github.com/toarnabtrainer/AEC_Python_Batch_2_August_2023<br>
 **or**<br>
 https://tinyurl.com/yc6yznma
 
-**Teams Link:** <br>
+**MS-Teams Link:** <br>
 https://tinyurl.com/2s3yxjnr
 
 **Python Download Link:**<br>
