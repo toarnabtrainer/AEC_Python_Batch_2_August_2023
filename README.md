@@ -8,6 +8,14 @@ https://tinyurl.com/yc6yznma
 **MS-Teams Link:** <br>
 https://tinyurl.com/2s3yxjnr
 
+<hr>
+
+## Online Class Schedule:
+* **09th September 2023 (Saturday):** From 10.00 am to 01.00 pm  (Join at the same MS-Teams Link)
+* **10th September 2023 (Sunday):** From 03.00 pm to 06.00 pm  (Join at the same MS-Teams Link)
+
+<hr>
+
 **Python Download Link:**<br>
 **Anaconda Download Link:** https://www.anaconda.com/products/distribution
 
